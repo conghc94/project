@@ -1,0 +1,52 @@
+/*---------------------------------M003-01---------------------------------*/
+hr{
+	width: 70%;
+}
+
+.row-left
+{
+	margin-left: 16.66666667%;
+}
+
+.datacommittee
+{
+	padding-top: 10px ; margin-left: -4%;
+}
+.btn-first
+{
+	margin-top: 5%;
+}
+.btn-after
+{
+	margin-top: 10px;
+}
+.btn-right-side
+{
+	float: right; 
+	margin-right: 8%;
+}
+/*-------年会費の請求----------*/
+.data-memberofcommittees
+{
+	padding-left:8.333%;	
+}
+
+}
+.request-of-cost
+{
+	padding-left: 7.333%;
+}
+.receipt-of-cost
+{
+	padding-left: 7.333%;
+}
+/*.lb-required
+{
+	width: 200px;
+}
+
+.lb-radio
+{
+	width: 50%;
+}*/
+/*---------------------------------M005-01---------------------------------*/

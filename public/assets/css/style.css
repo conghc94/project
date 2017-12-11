@@ -1,0 +1,19 @@
+.std-searchlist {
+	overflow: auto;
+    white-space: nowrap;
+}
+
+.std-searchlist td{
+    display: inline-block;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    text-align: left;
+}
+.std-searchlist th{
+    display: inline-block;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    text-align: left;
+}
